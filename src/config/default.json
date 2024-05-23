@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "jwt_secret": "",
+  "database": {
+    "host": "localhost",
+    "dialect": "mysql",
+    "username": "adminuser",
+    "password": "adminpassword",
+    "database": "mydatabase"
+  }
+}

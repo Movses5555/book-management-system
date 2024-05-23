@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev --files src/server.ts",
     "check": "tsc --noEmit",
-    "test": "NODE_ENV=test jest --testPathPattern='auth.test|author.test|book.test'"
+    "test": "NODE_ENV=test jest --testPathPattern='index.test'"
   },
   "keywords": [],
   "author": "",
